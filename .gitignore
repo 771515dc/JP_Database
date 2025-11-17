@@ -1,0 +1,13 @@
+﻿# Python / venv
+.venv/
+__pycache__/
+*.pyc
+
+# Editors
+.vscode/
+.idea/
+
+# Data (keep raw off repo; choose whether to track the built DB)
+data/raw/
+# data/jp_pmda_devices.sqlite
+data/raw/
