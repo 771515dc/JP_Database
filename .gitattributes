@@ -1,0 +1,6 @@
+﻿* text=auto
+*.py   text eol=lf
+*.md   text eol=lf
+*.yml  text eol=lf
+*.sql  text eol=lf
+.gitattributes text eol=lf
